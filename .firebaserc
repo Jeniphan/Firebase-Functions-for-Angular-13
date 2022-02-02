@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "akiira-app"
-  }
+    "default": "akiira-app",
+    "test": "test-f08f2"
+  },
+  "targets": {}
 }
